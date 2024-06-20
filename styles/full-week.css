@@ -1,30 +1,31 @@
 body {
+    font-family: "Playwrite NZ", curvive, sans-serif;
     text-align: center;
     background-color: rgb(183, 175, 175);
 }
 
 h1 {
-    font-family: "Playwrite NZ", curvive, sans-serif;
+    
     color: rgb(109, 19, 19);
 }
 
 h2 {
-    font-family: "Playwrite NZ", curvive, sans-serif;
+    
     color: coral;
 }
 
 a {
-    font-family: "Playwrite NZ", curvive, sans-serif;
+    
     color: blue;
     text-decoration: none;
 }
 
 a:hover {
-    color: aqua;
+    color: rgb(5, 9, 9);
     text-decoration: underline;
 }
 
 p {
-    font-family: "Playwrite NZ", curvive, sans-serif;
+    
     color: black;
 }
