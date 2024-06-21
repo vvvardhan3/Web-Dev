@@ -1,31 +1,27 @@
 body {
-    font-family: "Playwrite NZ", curvive, sans-serif;
-    text-align: center;
-    background-color: rgb(183, 175, 175);
+  font-family: "Playwrite NZ", curvive, sans-serif;
+  text-align: center;
+  background-color: rgb(183, 175, 175);
 }
 
 h1 {
-    
-    color: rgb(109, 19, 19);
+  color: rgb(109, 19, 19);
 }
 
 h2 {
-    
-    color: coral;
+  color: coral;
 }
 
 a {
-    
-    color: blue;
-    text-decoration: none;
+  color: blue;
+  text-decoration: none;
 }
 
 a:hover {
-    color: rgb(5, 9, 9);
-    text-decoration: underline;
+  color: rgb(5, 9, 9);
+  text-decoration: underline;
 }
 
 p {
-    
-    color: black;
+  color: black;
 }
