@@ -1,25 +1,41 @@
 body {
-    text-align: center;
-    background-color: rgb(216, 208, 208);
-    margin: 50px;
+  text-align: center;
+  background-color: rgb(216, 208, 208);
+  margin: 0px;
+}
+
+main {
+  width: 800px;
+  margin: 120px auto 72px auto;
+  background-color: coral;
+  padding: 10px;
+  border: 5px solid rgb(44, 44, 44);
+  border-radius: 8px;
+  box-shadow: 1px 1px 5px black;
+}
+
+main span {
+  color: rgb(38, 37, 37);
 }
 
 img {
-    width: 200px;
-    height: 200px;
-    border-radius: 100px;
+  width: 200px;
+  height: 200px;
+  border: 5px solid black;
+  border-radius: 100px;
+  margin-top: -110px;
 }
 
 h1 {
-    font-family: "Oswald", sans-serif;
+  font-family: "Oswald", sans-serif;
   text-align: center;
-  color: black;
+  color: rgb(53, 51, 51);
 }
 
 p {
   font-family: "Oswald", sans-serif;
   text-align: center;
-  color: #6f6969;
+  color: black;
 }
 
 a {
@@ -31,12 +47,12 @@ a:hover {
   text-decoration: underline;
 }
 
-#todays-challenge {
-    color: chocolate;
-    font-size: 52px;
-    font-weight: bold;
+footer p {
+  font-size: 20px;
 }
 
-
-
-
+#todays-challenge {
+  color: black;
+  font-size: 52px;
+  font-weight: bold;
+}
